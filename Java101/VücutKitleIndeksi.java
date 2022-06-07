@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class VücutKitleIndeksi {
     public static void main(String[] args) {
+        // kullanicinin girdiği boy ve kilo parametrelerine gore
+        // Vucut Kitle Endeksini hesaplayan program
         int kilo;
         double vki, boy;
 
