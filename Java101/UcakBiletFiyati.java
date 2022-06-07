@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class UcakBiletFiyati {
     public static void main(String[] args) {
+        // mesafe, yas ve yolculuk tipine gore ucak bileti fiyatini hesaplayan program
         int mesafe, yas, tip;
         double fiyat;
 
