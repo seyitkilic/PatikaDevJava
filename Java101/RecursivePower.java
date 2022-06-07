@@ -9,6 +9,8 @@ public class RecursivePower {
     }
 
     public static void main(String[] args) {
+        // recursive fonksiyon kullanarak kullanicinin girdigi taban ve us
+        // degerlerine gore us alma islemi yapan program
         int taban, us;
 
         Scanner sc = new Scanner(System.in);
