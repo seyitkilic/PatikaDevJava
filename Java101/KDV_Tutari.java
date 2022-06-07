@@ -8,6 +8,7 @@ public class KDV_Tutari {
 
         System.out.print("Miktari gir -> ");
         tutar = input.nextDouble();
+        input.close();
 
         oran = 0;
 
@@ -26,6 +27,5 @@ public class KDV_Tutari {
         System.out.println("KDV hariç fiyat -> " + tutar);
         System.out.println("KDV Orani -> " + oran * 100);
 
-        input.close();
     }
 }

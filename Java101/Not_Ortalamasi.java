@@ -13,6 +13,7 @@ public class Not_Ortalamasi {
         d3 = input.nextInt();
         d4 = input.nextInt();
         d5 = input.nextInt();
+        input.close();
 
         sum = d1 + d2 + d3 + d4 + d5;
         mean = sum / 5;
@@ -22,6 +23,5 @@ public class Not_Ortalamasi {
         System.out.println("Not ortalamaniz -> " + mean);
         System.out.println(condition ? "Sinifi Gectiniz" : "Sinifta Kaldiniz");
 
-        input.close();
     }
 }
