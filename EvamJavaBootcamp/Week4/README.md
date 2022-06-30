@@ -10,4 +10,4 @@
 * Ek olarak thread class ı için Runnable interface ini implemente edelim.
 * Okuma ve console a yazma işlemleri arasında Thread.sleep(3000) kullanalım, data okunmadan console a yazdırma işleminin olmaması gerekiyor.
 * Json örneği şu şekilde olabilir ;
-[{"name":"deneme", "surname":"deneme", "age": 18}, {"name":"deneme", "surname":"deneme", "age": 18}, {"name":"deneme", "surname":"deneme", "age": 18}, {"name":"deneme", "surname":"deneme", "age": 18}]
+{"students": [{"name":"deneme", "surname":"deneme", "age": 18}, {"name":"deneme", "surname":"deneme", "age": 18}, {"name":"deneme", "surname":"deneme", "age": 18}, {"name":"deneme", "surname":"deneme", "age": 18} ]}
