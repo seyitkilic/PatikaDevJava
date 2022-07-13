@@ -8,7 +8,7 @@ public class MineSweeper {
     private String[][] withoutMine; // mayinsiz sekilde haritanin gosterimi
     private boolean isFinish = false; // oyunun bitip bitmediginin kontrolu
     private int winCondition; // oyunu kazanmak icin acilmasi gereken blok sayisi
-
+ 
     public MineSweeper(int row, int column){
         /*
          * Constructor metot
