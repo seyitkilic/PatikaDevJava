@@ -1,3 +1,3 @@
-# Java101
+# Başlangıç Seviye Java 
 
-Java101 patikası sırasında verilen ödevleri tuttuğum repo
+Patika.dev üzerinde bulunan Başlangıç Seviye Java ile Backend Web Development Patikası boyunca yapılan ödevlerin ve projelerin tutulduğu repo
