@@ -20,11 +20,11 @@ Not: Aynı anda iki adet silah veya zırh kullanılamaz. Yani örneğin tabancam
 
 ## KARAKTERLER
 
-![karakterler](/images/karakterler.png "karakterler")
+![karakterler](https://github.com/seyitkilic/PatikaDevJava/blob/main/Java102/adv-game/images/karakterler.png "karakterler")
 
 ## CANAVARLAR
 
-![canavarlar](/images/canavarlar.png "canavarlar")
+![canavarlar](https://github.com/seyitkilic/PatikaDevJava/blob/main/Java102/adv-game/images/canavarlar.png "canavarlar")
 
 NOT : Yılanlar Şansa bağlı olarak değişik eşyalar veya paralar verebilir veya hiçbir şey vermeyedebilir. Buradaki olasılıklar şu şekildedir:
 
@@ -44,11 +44,11 @@ NOT : Yılanlar Şansa bağlı olarak değişik eşyalar veya paralar verebilir 
 
 ## SİLAHLAR
 
-![silahlar](/images/silahlar.png "silahlar")
+![silahlar](https://github.com/seyitkilic/PatikaDevJava/blob/main/Java102/adv-game/images/silahlar.png "silahlar")
 
 ## ZIRHLAR
 
-![zırhlar](/images/zirhlar.png "zırhlar")
+![zırhlar](https://github.com/seyitkilic/PatikaDevJava/blob/main/Java102/adv-game/images/zirhlar.png "zırhlar")
 
 ## MEKANLAR
 
@@ -88,4 +88,4 @@ NOT : Yılanlar Şansa bağlı olarak değişik eşyalar veya paralar verebilir 
 
 ## Sınıf Diyagramı
 
-![sınıf diyagramı](/images/class-diagram.jpg "sınıf diyagramı")
+![sınıf diyagramı](https://github.com/seyitkilic/PatikaDevJava/blob/main/Java102/adv-game/images/class-diagram.jpg "sınıf diyagramı")
